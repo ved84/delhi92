@@ -5,3 +5,5 @@ halwa
 puri
 dahi
 thanku
+beens 
+pizaa
